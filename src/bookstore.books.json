@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "65168bc1f74546a5f60c040b"
+  },
+  
+  "title": "The great Gatsby",
+  "author": "F.scott Fitzgerald",
+  "genre": "Fiction",
+  "price": 1250,
+  "stock_quqntity": 50
+},
+{
+  "_id": {
+    "$oid": "65168bc1f74546a5f60c040c"
+  },
+  "title": "The look in the sea",
+  "author": "George Albert",
+  "genre": "Fiction",
+  "price": 1000,
+  "stock_quqntity": 40
+},
+{
+  "_id": {
+    "$oid": "65168bc1f74546a5f60c040d"
+  },
+  "title": "The great northland",
+  "author": "john havertz",
+  "genre": "Fiction",
+  "price": 1200,
+  "stock_quqntity": 45
+}]
